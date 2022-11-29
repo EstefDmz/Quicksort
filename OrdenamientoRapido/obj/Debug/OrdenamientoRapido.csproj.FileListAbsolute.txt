@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\OrdenamientoRapido\OrdenamientoRapido\bin\Debug\OrdenamientoRapido.exe.config
+C:\Users\andre\source\repos\OrdenamientoRapido\OrdenamientoRapido\bin\Debug\OrdenamientoRapido.exe
+C:\Users\andre\source\repos\OrdenamientoRapido\OrdenamientoRapido\bin\Debug\OrdenamientoRapido.pdb
+C:\Users\andre\source\repos\OrdenamientoRapido\OrdenamientoRapido\obj\Debug\OrdenamientoRapido.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\OrdenamientoRapido\OrdenamientoRapido\obj\Debug\OrdenamientoRapido.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\OrdenamientoRapido\OrdenamientoRapido\obj\Debug\OrdenamientoRapido.Form1.resources
+C:\Users\andre\source\repos\OrdenamientoRapido\OrdenamientoRapido\obj\Debug\OrdenamientoRapido.Properties.Resources.resources
+C:\Users\andre\source\repos\OrdenamientoRapido\OrdenamientoRapido\obj\Debug\OrdenamientoRapido.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\OrdenamientoRapido\OrdenamientoRapido\obj\Debug\OrdenamientoRapido.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\OrdenamientoRapido\OrdenamientoRapido\obj\Debug\OrdenamientoRapido.exe
+C:\Users\andre\source\repos\OrdenamientoRapido\OrdenamientoRapido\obj\Debug\OrdenamientoRapido.pdb
